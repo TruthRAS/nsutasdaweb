@@ -5,7 +5,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>{{ config('app.name', 'Laravel') }}</title>
+        <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
 
+        <script src="{{ asset('js/bootstrap.bundle.min.js') }}"></script>
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=instrument-sans:400,500,600" rel="stylesheet" />
@@ -19,30 +21,7 @@
             </style>
         @endif
     </head>
-    <body class="bg-[#FDFDFC] dark:bg-[#0a0a0a] text-[#1b1b18] flex p-6 lg:p-8 items-center lg:justify-center min-h-screen flex-col">
-        <section class="py-5">
-            <div class="container-fluid justify-content-center">
-                <div class="leaders">
-                    <h4 class="text-center">Our Leadership</h4>
-                    <hr class="ruler">
-
-                </div>
-
-                <div class="d-flex flex-row">
-                    <div class="card m-3" style="width: 18rem;">
-                        <img src="https://via.placeholder.com/150" class="card-img-top" alt="Leader 1">
-                        <div class="card-body">
-                            <h5 class="card-title">Leader 1</h5>
-                            <p class="card-text">Brief description of Leader 1.</p>
-
-
-
-
-
-                      </div>
-                </div>
-
-
-        </section>
+    <body class="bg-[#FDFDFC] dark:bg-[#f4ecec] text-[#1b1b18] flex p-6 lg:p-8 items-center lg:justify-center min-h-screen flex-col">
+       <button class="btn btn-primary">Bootstrap Works</button>
     </body>
 </html>
