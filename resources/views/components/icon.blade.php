@@ -1,9 +1,9 @@
 <div class="d-flex flex-row ">
-   <div class="icon p-2"><a href="mailto:rasrevelation@gmail.com">
+   <div class="icon p-2 "><a href="mailto:rasrevelation@gmail.com">
     <i class="fa-duotone fa-solid fa-envelope fa-2x " id="email"></i></a>
     <br>
    </div>
-   <div class="icon p-2"><a href="#">
+   <div class="icon p-2"><a href="https://www.facebook.com/share/1FWxdDMVP3/?mibextid=wwXIfr">
     <i class="fa-brands fa-facebook fa-2x" id="facebook"></i></a>
     <br>
    </div>

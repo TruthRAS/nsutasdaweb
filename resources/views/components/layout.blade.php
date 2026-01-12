@@ -28,13 +28,13 @@
             Days
           </a>
           <ul class="dropdown-menu dropdown-menu-end">
+            <li><a class="dropdown-item" href="sunday">Sunday</a></li>
             <li><a class="dropdown-item" href="monday">Monday</a></li>
-            <li><a class="dropdown-item" href="tuesday">Tuesday</a></li>
+            <li><a class="dropdown-item" href="teusday">Tuesday</a></li>
             <li><a class="dropdown-item" href="wednesday">Wednesday</a></li>
             <li><a class="dropdown-item" href="thursday">Thursday</a></li>
             <li><a class="dropdown-item" href="friday">Friday</a></li>
             <li><a class="dropdown-item" href="saturday">Sabbath</a></li>
-            <li><a class="dropdown-item" href="sunday">Sunday</a></li>
           </ul>
         </li>
       </ul>
