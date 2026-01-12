@@ -1,3 +1,10 @@
-<x-page_set_up>
-<x-navigationbar></x-navigationbar>
-</x-page_set_up>
+<x-pagemeta>
+ <x-layout>
+
+    </x-layout>
+    <x-dashboard>
+        <x-slot:heading>
+            Gallery
+        </x-slot:heading>
+    </x-dashboard>>
+</x-pagemeta>
